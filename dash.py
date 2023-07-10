@@ -12,9 +12,9 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 
 df = pd.read_csv('combined_data.csv')
 
-births = pd.read_csv('all_births_22nd.csv')
+births = pd.read_csv('births.csv')
 
-hist = pd.read_csv('all_pops_for_hist.csv')
+hist = pd.read_csv('populations.csv')
 
 with open('geo_east.json') as f:
     world = json.load(f)
