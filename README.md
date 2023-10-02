@@ -1,5 +1,5 @@
 # pop
-A 'quick and dirty' Dash visualization showing demographic change in selected East Asian nations (South Korea, Taiwan, Japan).
+A dashboard (plotly-dash/seaborn) visualization showing demographic change in selected East Asian nations (South Korea, Taiwan, Japan).
 
 ## Dashboard 
 ![pop_overview](https://github.com/saltwatercowboy/pop/assets/61621232/883b66a1-b1ae-47e6-b03a-6102a50ae1ac)
